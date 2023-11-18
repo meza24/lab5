@@ -1,0 +1,14 @@
+Librerias necesarias:
+pip install pillow matplotlib opencv-python-headless
+
+
+Comando para correr el programa:
+
+General:
+python3 ruta_completa_hacia_el_script/lab5.py --biblioteca PIL --imagen ruta_completa_hacia_la_imagen/imagen.png
+
+Si estás ejecutando el comando desde el mismo directorio donde se encuentran el script y la imagen, puedes simplemente usar:
+python3 lab5.py --biblioteca PIL --imagen imagen.png
+
+Ejemplo:
+python3 ~/Escritorio/progra/python/lab5/lab5.py --biblioteca PIL --imagen imagen.png
