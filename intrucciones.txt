@@ -1,4 +1,35 @@
-Librerias necesarias:
+Informe sobre Dependencias del Proyecto de Procesamiento de Imágenes
+
+Fecha del Informe: 18 de noviembre de 2023
+
+Objetivo del Proyecto: El proyecto en cuestión se centra en desarrollar un programa capaz de abrir y mostrar imágenes utilizando diversas bibliotecas de procesamiento de imágenes, a saber: PIL (Python Imaging Library), Matplotlib y OpenCV.
+
+Descripción de Dependencias:
+
+PIL (Python Imaging Library):
+
+La biblioteca PIL se emplea para procesamiento y manipulación básica de imágenes en Python. La dependencia clave es:
+from PIL import Image (parte de la biblioteca estándar de Python)
+
+Matplotlib:
+
+Matplotlib se utiliza para la visualización de datos y, en este caso, para mostrar imágenes.
+Dependencias:
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
+Matplotlib es una biblioteca externa, y su instalación se realiza a través de pip install matplotlib.
+
+OpenCV:
+
+OpenCV es una biblioteca muy utilizada para el procesamiento de imágenes en tiempo real.
+Dependencias:
+import cv2
+OpenCV es una biblioteca externa y se instala mediante pip install opencv-python.
+
+Consideraciones Importantes:
+
+La instalación previa de las bibliotecas Matplotlib y OpenCV es esencial para la ejecución exitosa del programa.
+Es crucial asegurarse de que las versiones de las bibliotecas sean compatibles para evitar posibles problemas o errores en la ejecución del código.
 pip install pillow matplotlib opencv-python-headless
 
 
