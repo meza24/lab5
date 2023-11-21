@@ -58,6 +58,7 @@ Consideraciones Importantes:
 - La instalación previa de las bibliotecas Matplotlib y OpenCV es esencial para la ejecución exitosa del programa.
 - Asegúrate de que las versiones de las bibliotecas sean compatibles para evitar posibles problemas o errores en la ejecución del código.
 
-Autor:
+Autores:
 
 Axel Alberto Meza Mejias / C04845
+Evelyn Feng Wu / B82870
