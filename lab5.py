@@ -1,5 +1,5 @@
 # Autor: Axel Alberto Meza Mejias / C04845
-#Autor: Evelyn Feng / Carnet
+# Autor: Evelyn Feng Wu / B82870
 # Descripcion: Programa que abre y muestra una imagen usando PIL, Matplotlib o OpenCV
 # Fecha: 18/11/2023
 
