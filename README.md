@@ -8,9 +8,10 @@ https://github.com/meza24/lab5/blob/main/Diagrama3.png?raw=true (recomendamos ab
 
 Dependencias del Proyecto.
 
-PIL (Python Imaging Library)
+PIL:
+
 La biblioteca PIL se emplea para procesamiento y manipulación básica de imágenes en Python. La dependencia clave es:
-from PIL import Image (parte de la biblioteca estándar de Python)
+from PIL import Image (parte de la biblioteca estándar de Python), su instalación se realiza a través de pip install Pillow.
 
 Matplotlib:
 
