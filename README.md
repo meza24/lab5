@@ -1,12 +1,14 @@
 Laboratorio #5
 
-Descripción
+Descripción: 
+
 Este software desarrollado en Python tiene como propósito abrir y mostrar imágenes, empleando bibliotecas Matplotlib, PIL y OpenCV. El enfoque principal se dirige hacia la modularidad del diseño del programa, aprovechando clases y propiedades para garantizar una estructura bien definida y ordenada.
 
 Diagrama de Diseño:
+
 https://github.com/meza24/lab5/blob/main/Diagrama3.png?raw=true (recomendamos abrir en una nueva ventana).
 
-Dependencias del Proyecto.
+Dependencias del Proyecto:
 
 PIL:
 
@@ -29,7 +31,7 @@ import cv2
 OpenCV es una biblioteca externa y se instala mediante pip install opencv-python.
 
 
-Instalación
+Instalación:
 
 Pasos:
 1. Clona el repositorio:
@@ -56,5 +58,6 @@ Consideraciones Importantes:
 - La instalación previa de las bibliotecas Matplotlib y OpenCV es esencial para la ejecución exitosa del programa.
 - Asegúrate de que las versiones de las bibliotecas sean compatibles para evitar posibles problemas o errores en la ejecución del código.
 
-Autor
+Autor:
+
 Axel Alberto Meza Mejias / C04845
