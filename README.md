@@ -4,7 +4,7 @@ Descripción
 Este software desarrollado en Python tiene como propósito abrir y mostrar imágenes, empleando bibliotecas Matplotlib, PIL y OpenCV. El enfoque principal se dirige hacia la modularidad del diseño del programa, aprovechando clases y propiedades para garantizar una estructura bien definida y ordenada.
 
 Diagrama de Diseño:
-https://github.com/meza24/lab5/blob/main/Diagrama3.png?raw=true
+https://github.com/meza24/lab5/blob/main/Diagrama3.png?raw=true (recomendamos abrir en una nueva ventana).
 
 Dependencias del Proyecto.
 
